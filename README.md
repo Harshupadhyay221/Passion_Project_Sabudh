@@ -6,4 +6,4 @@
 ### Identify Skill Gaps: Compare resumes to job descriptions and highlight missing skills.
   - For comparisison we need data of various jobs,title,job description,required skills etc.For this purpose we need to scrape some jobs listing website
   - Tools used for this : Beautifulsoup
-  - Gathered some data by using hugginface api
+  - Gathered some data by using hugginface 
